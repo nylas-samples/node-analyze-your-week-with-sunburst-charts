@@ -1,5 +1,9 @@
 # Sunburst Charts using Nylas Calendar API
 
+An implementation with React. Check out our <a href="https://www.youtube.com/watch?v=bWoP2FMF44Y&t=4s" target="_blank">Livestream on Analyzing your Week with Sunburst Charts</a>.
+
+![sunburst-chart](https://user-images.githubusercontent.com/553578/226416607-428f1df1-8c3b-45dc-bdd3-3097e058124c.gif)
+
 **⚠️ Warning: This repo is not meant for use in production and stability is not fully guaranteed.**
 
 Explore working front-end and back-end sample code in our sample Nylas integrations.
